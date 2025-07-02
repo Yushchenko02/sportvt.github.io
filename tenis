@@ -1,0 +1,56 @@
+<html>
+<body>
+<head>
+<link rel="stylesheet" href= "style1.css"/>
+<title>tenis </title>
+</head>
+<header>
+<img class="logo" src="https://images.icon-icons.com/37/PNG/512/tennis_sport_3638.png">
+</header>
+
+  <nav class="navv">
+             <a href="#about" class="about">контакти</a>
+             <a href="#circle" class="circle">кружки</a>
+             <a href="#projects" class="projects">викладачі</a>
+    </nav>
+     <div class="try">
+    <nav>
+        <a class="aaa" href="#try"> записатися </a>
+    </nav>
+    </div>
+<main> 
+    <h1> Відео ролики </h1>
+   <iframe src="https://www.youtube.com/embed/tuiI2-JwLYs?si=nWCNVPIQD3B7jrUV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe src="https://www.youtube.com/embed/aFydRzbKA2I?si=ASLhofaXGrTPNref" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe src="https://www.youtube.com/embed/Lp8wzptL08c?si=1MZarzJFsgJt5o0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/LJY_VcVPAek?si=SMl94NlP1cnYxPRS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe src="https://www.youtube.com/embed/k7mxyBWVn1s?si=tkrtVityvKgvR3TL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/PvNf3U4BiRU?si=dEUFu0pxHow4m3Lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h1> Галерея </h1>
+      <div class="container">
+       <div class="gallery">
+                    <img src="https://best-tennis.ru/wp-content/uploads/2019/05/uroki-bolshogo-tennisa.jpg"/>
+                    <img src="https://media.istockphoto.com/id/477689222/photo/teenagers-at-tennis-clinic.jpg?s=612x612&w=0&k=20&c=IO9wufNZhc_1yR2-TQjzVa4Ll_BvrDQTLMLMMSuH8-w="/>
+                    <img src="https://sport-32.ru/media/2023/11/sport_32Tennis-1.jpg"/>
+                    <img src="https://media.istockphoto.com/id/166006866/photo/tennis-player-hitting-forehand-winner.jpg?s=612x612&w=0&k=20&c=1bGxgNyz84tnYJuxsfZWwY0XycV7bVZuL7kH7sa6kWE="/>
+                    <img src="https://minsknews.by/wp-content/uploads/2023/11/dm7a0333.jpg"/>
+                    <img src="https://new.psy.su/mod_files/gazeta/img_img_gazeta_10365.jpg"/>
+                    <img src="https://tennis-russia.ru/upload/user/Petrova1-26-05-2024.jpg"/>
+                </div>
+      </div>
+<h1 id="projects"> викладачі </h1>
+      <div class="container">
+       <div class="galleryY">
+                    <img src="https://ncrdo.ru/upload/medialibrary/02d/02d934523a5b1bef5862e7e375bdcfd0.jpg"/>
+                    <img src="https://st5.depositphotos.com/12549166/66432/i/450/depositphotos_664323126-stock-photo-portrait-tennis-player-girl-white.jpg"/>
+                    <img src="https://media.istockphoto.com/id/1312359576/photo/focused-seriously-tennis-player-in-red-shirt-posing-at-the-photo-camera-in-the-indoors.jpg?s=612x612&w=0&k=20&c=-2TPpF8nh3obpGBKVG2J_-nbnQyHFvuTt4OvKnSZDO0="/>
+                    <img src="https://pixel-shot.com/get_image/i-3541160-0.JPG">
+                </div>
+      </div>
+</main>
+<footer id="projects">
+    <p> ном. тел. +380954681269<br/>
+    адресса Європейська 10 </p>
+</footer>
+</body>
+</html>
