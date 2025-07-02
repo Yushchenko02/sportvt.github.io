@@ -148,3 +148,15 @@ p {
     display: flex;
     justify-content: center;
 }
+
+.containerr {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.pop {
+    display: flex;
+    width: 60px;
+    flex-wrap: wrap;
+}
